@@ -1,0 +1,107 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_ir_calendar
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e-20231108\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-23 07:09+0000\n"
+"PO-Revision-Date: 2024-01-23 07:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Next century"
+msgstr "قرن آینده"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Next decade"
+msgstr "دهه آینده"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Next month"
+msgstr "ماه آینده"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Next year"
+msgstr "سال آینده"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Previous century"
+msgstr "قرن گذشته"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Previous decade"
+msgstr "دهه قبل"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Previous month"
+msgstr "ماه قبلی"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Previous year"
+msgstr "سال پیشین"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Select century"
+msgstr "قرن را انتخاب کنید"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Select decade"
+msgstr "دهه را انتخاب کنید"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Select month"
+msgstr "انتخاب ماه"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Select year"
+msgstr "سال را انتخاب کنید"
+
+#. module: l10n_ir_calendar
+#. odoo-javascript
+#: code:addons/l10n_ir_calendar/static/src/core/datetime/datetime_picker.js:0
+#, python-format
+msgid "Week numbers"
+msgstr "اعداد هفته"
